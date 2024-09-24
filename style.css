@@ -1,0 +1,84 @@
+/* CSS NAVBAR */
+.navbar-brand {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #703c3c;
+    text-;
+}
+
+.nav-link {
+    font-family: 'Arial', sans-serif;
+    font-size: 1rem;
+    margin-right: 15px;
+    font-weight: bold;
+    color: #552626;
+}
+
+.nav-link:hover {
+    color: #f79797;
+    transform: scale(1.1);
+}
+
+/*AKHIR CSS NAVBAR  */
+/* CSS HOME */
+.jumbotron {
+    margin-top: 2rem;
+    padding: 5rem;
+    background-color: rgb(246, 237, 237);
+    animation: slideIn 2s ease-in-out infinite alternate;
+}
+
+/* AKHIR CSS HOME */
+
+/* CSS ABOUT ME */
+#about-me {
+    padding: 5rem;
+}
+
+/* AKHIR CSS ABOUT ME */
+
+/* CSS experience */
+#experience {
+    background-color: rgb(246, 237, 237);
+    padding: 5rem;
+}
+
+/* AKHIR CSS experience */
+
+
+/* CSS CONTACT */
+#contact {
+    padding: 5rem;
+}
+
+form {
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 3rem;
+    background-color: rgb(246, 237, 237);
+}
+
+/* AKHIR CSS CONTACT */
+
+footer {
+    background-color: rgb(246, 237, 237);
+    text-align: center;
+    font-weight: bold;
+}
+
+.medsos {
+    padding: 5px 0;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.medsos ul li {
+    padding: 4px;
+    display: inline-block;
+    color: #fff;
+
+}
